@@ -1,19 +1,19 @@
 {
-  "name": "malware-unicorn.github.io",
-  "homepage": "https://malwareunicorn.org",
+  "name": "putravenkataraju164.github.io,
+  "homepage": "https://putravenkataraju.me/comptiasec",
   "version": "0.1.0",
   "private": true,
   "license": "GPL-3.0",
-  "description": "Reverse Engineering Workshops",
-  "author": "malware-unicorn",
+  "description": "Learn Cybersecurity",
+  "author": "mrpvr",
   "repository": {
     "type": "git",
-    "url": "git@github.com:malware-unicorn/malware-unicorn.github.io.git"
+    "url": "git@github.com:putravenkataraju164/comptia-security-plus.git"
   },
   "keywords": [
-    "reverse engineering",
-    "engineering",
-    "malware"
+    "cyber security",
+    "comptia",
+    "security plus"
   ],
   "dependencies": {
     "@material-ui/core": "^3.9.3",
