@@ -1,13 +1,13 @@
 (window.webpackJsonp = window.webpackJsonp || []).push([
  [0], {
   107: function(e, a, t) {
-   e.exports = t.p + "/comptia-security-plus/static/media/purple-blur-bg.07bf9239.jpg"
+   e.exports = t.p + "https://github.com/putravenkataraju164/comptia-security-plus/blob/master/static/media/purple-blur-bg.07bf9239.jpg"
   },
   124: function(e, a, t) {
-   e.exports = t.p + "/comptia-security-plus/static/media/compsec.jpg"
+   e.exports = t.p + "https://github.com/putravenkataraju164/comptia-security-plus/blob/master/static/media/compsec.jpg"
   },
   125: function(e, a, t) {
-   e.exports = t.p + "/comptia-security-plus/static/media/profile-pic.e82af492.jpg"
+   e.exports = t.p + "https://github.com/putravenkataraju164/comptia-security-plus/blob/master/static/media/profile-pic.e82af492.jpg"
   },
   126: function(e, a, t) {
    e.exports = t(263)
