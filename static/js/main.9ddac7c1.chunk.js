@@ -1621,9 +1621,7 @@
        }, "White Papers"), r.a.createElement("p", null, r.a.createElement("a", {
         href: ""
        }, "Securing Android Applications from Known Vulnerabilities through Penetration Testing"), " | ijeat.org"),
-	   r.a.createElement("p", null, "Malware Dynamic Behavior Classification: SVM-HMM applied to Malware API Sequencing | Johns Hopkins University"), r.a.createElement("p", null, "Dll Side-Loading: A Thorn in the Side of the Anti-Virus Industry | FireEye"))), r.a.createElement(aa, {
-        justify: "center"
-       }, r.a.createElement(ta, {
+	    r.a.createElement(ta, {
         xs: 12,
         sm: 12,
         md: 8,
