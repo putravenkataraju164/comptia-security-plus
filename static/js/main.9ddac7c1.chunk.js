@@ -1631,7 +1631,7 @@
         className: a.navWrapper
        }, r.a.createElement("h6", {
         className: a.profile
-       }, "Conferences"), r.a.createElement("p", null, "NATIONAL SECURITY & STRATEGIC STUDIES CYBER SECURITY & ITS USE CASES", r.a.createElement("b", null, "D.N.R. College of Engineering and Technology, Bhimavaram 2019")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")), r.a.createElement("p", null, " ", r.a.createElement("b", null, "")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")))))))
+       }, "Conferences"), r.a.createElement("p", null, "NATIONAL SECURITY & STRATEGIC STUDIES CYBER SECURITY & ITS USE CASES ", r.a.createElement("p", null, "D.N.R. College of Engineering and Technology, Bhimavaram 2019")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")), r.a.createElement("p", null, " ", r.a.createElement("b", null, "")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")), r.a.createElement("p", null, "", r.a.createElement("b", null, "")))))))
       }
      }]), a
     }(r.a.Component),
