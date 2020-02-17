@@ -7,7 +7,7 @@
    e.exports = t.p + "/comptia-security-plus/static/media/compsec.jpg"
   },
   125: function(e, a, t) {
-   e.exports = t.p + "/comptia-security-plus/static/media/profile-pic.jpg"
+   e.exports = t.p + "/comptia-security-plus/static/media/profile-pic.e82af492.jpg"
   },
   126: function(e, a, t) {
    e.exports = t(263)
