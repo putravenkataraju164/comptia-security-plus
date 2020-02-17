@@ -1860,7 +1860,23 @@
         sm: 12,
         md: 6,
         lg: 4
-       }, r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+       }, r.a.createElement(me.a, null, r.a.createElement(X.a, {
+        id: "",
+        title: "",
+        placement: window.innerWidth > 959 ? "top" : "left",
+        classes: {
+         tooltip: a.tooltip
+        }
+       }, r.a.createElement(de.a, {
+        button: !0,
+        component: "a",
+        href: "",
+        target: "_blank"
+       }, r.a.createElement(be.a, {
+        primary: ""
+       }), r.a.createElement(fa, {
+        color: "primary"
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
         id: "",
         title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
@@ -2670,14 +2686,8 @@
     path: "/about",
     component: ua
    }), r.a.createElement(s.a, {
-    path: "/resources",
-    component: Sa
-   }), r.a.createElement(s.a, {
     path: "/workshops",
     component: Wa
-   }), r.a.createElement(s.a, {
-    path: "/downloads",
-    component: za
    }), r.a.createElement(s.a, {
     path: "/",
     component: ia
