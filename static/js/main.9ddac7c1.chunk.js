@@ -2547,7 +2547,11 @@
         color: "primary"
        }, "Chapter 1")),r.a.createElement(fa, {
         color: "info"
-       }, "weightage: 21%"), r.a.createElement(Fa, null, r.a.createElement(Ge, {
+       }, "weightage: 21%"), r.a.createElement(fa, {
+        color: ""
+       }, ""), r.a.createElement(fa, {
+        color: ""
+       }, "")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
         color: "primary",
         compontent: "a",
         href: "workshops/chapter1.html"
