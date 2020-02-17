@@ -2637,6 +2637,27 @@
         href: ""
        }, "Disabled"), r.a.createElement("small", {
         className: a.cardDate
+       }, "Coming Soon!")))), r.a.createElement(ta, {
+        xs: 12,
+        sm: 12,
+        md: 6,
+        lg: 4
+       }, r.a.createElement(wa, null, r.a.createElement(ya, null, r.a.createElement("h4", {
+        className: a.cardTitle
+       }, "Cryptography & PKI"), r.a.createElement("p", null, "Install and configure wireless security settings and implement public key infrastructure"), r.a.createElement(fa, {
+        color: "primary"
+       }, "Chapter 6"), r.a.createElement(fa, {
+        color: ""
+       }, ""), r.a.createElement(fa, {
+        color: ""
+       }, ""), r.a.createElement(fa, {
+        color: ""
+       }, "")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
+        color: "primary",
+        compontent: "a",
+        href: ""
+       }, "Disabled"), r.a.createElement("small", {
+        className: a.cardDate
        }, "Coming Soon!"))))))))
       }
      }]), a
