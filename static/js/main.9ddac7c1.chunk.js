@@ -2561,12 +2561,12 @@
        }, "Technologies & Tools"), r.a.createElement("p", null, "Install, configure, and deploy network components while assessing and troubleshooting issues to support organizational security"), r.a.createElement(fa, {
         color: "primary"
        }, ""), r.a.createElement(fa, {
-        color: "warning"
+        color: ""
        }, ""), r.a.createElement(fa, {
-        color: "info"
+        color: ""
        }, ""), r.a.createElement(fa, {
-        color: "danger"
-       }, "")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
+        color: ""
+       }, "Chapter 2")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
         color: "primary",
         compontent: "a",
         href: "#"
