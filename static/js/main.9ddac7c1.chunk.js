@@ -2579,41 +2579,41 @@
         lg: 4
        }, r.a.createElement(wa, null, r.a.createElement(ya, null, r.a.createElement("h4", {
         className: a.cardTitle
-       }, "Flareon 6 2019 Writeups"), r.a.createElement("p", null, "This is a writeup of the 12 Challenges from the Flareon 6 CTF 2019."), r.a.createElement(fa, {
+       }, "Architecture & Design"), r.a.createElement("p", null, "Implement secure network architecture concepts and systems design"), r.a.createElement(fa, {
         color: "primary"
-       }, "CTF"), r.a.createElement(fa, {
-        color: "warning"
-       }, "Windows"), r.a.createElement(fa, {
-        color: "info"
-       }, "Linux"), r.a.createElement(fa, {
-        color: "danger"
-       }, "Android"), r.a.createElement(fa, {
-        color: "danger"
-       }, "NES")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
+       }, "Chapter 3"), r.a.createElement(fa, {
+        color: ""
+       }, ""), r.a.createElement(fa, {
+        color: ""
+       }, ""), r.a.createElement(fa, {
+        color: ""
+       }, ""), r.a.createElement(fa, {
+        color: ""
+       }, "")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
         color: "primary",
         compontent: "a",
-        href: "workshops/flareon6_2019.html"
-       }, "Start"), r.a.createElement("small", {
+        href: ""
+       }, "Disabled"), r.a.createElement("small", {
         className: a.cardDate
-       }, "Published Sept 30, 2019")))), r.a.createElement(ta, {
+       }, "Coming Soon!")))), r.a.createElement(ta, {
         xs: 12,
         sm: 12,
         md: 6,
         lg: 4
        }, r.a.createElement(wa, null, r.a.createElement(ya, null, r.a.createElement("h4", {
         className: a.cardTitle
-       }, "Anti-Analysis Techniques"), r.a.createElement("p", null, "This is a survey of anti-analysis techniques. Will include some tips to bypass."), r.a.createElement(fa, {
-        color: "warning"
-       }, "Windows"), r.a.createElement(fa, {
-        color: "info"
-       }, "anti-reversing"), r.a.createElement(fa, {
-        color: "danger"
-       }, "anti-debugging"), r.a.createElement(fa, {
+       }, "Identity & Access Management"), r.a.createElement("p", null, "nstall and configure identity and access services, as well as management controls"), r.a.createElement(fa, {
         color: "primary"
-       }, "anti-automation")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
+       }, "Chapter 4"), r.a.createElement(fa, {
+        color: ""
+       }, ""), r.a.createElement(fa, {
+        color: "danger"
+       }, ""), r.a.createElement(fa, {
+        color: ""
+       }, "")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
         color: "primary",
         compontent: "a",
-        href: "#"
+        href: ""
        }, "Disabled"), r.a.createElement("small", {
         className: a.cardDate
        }, "Coming Soon!"))))))))
