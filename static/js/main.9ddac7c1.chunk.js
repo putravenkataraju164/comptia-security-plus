@@ -2545,7 +2545,9 @@
         className: a.cardTitle
        }, "Threat, Attacks & Vulnerabilities"), r.a.createElement("p", null, "Detect various types of compromise and have an understanding of penetration testing and vulnerability scanning concepts"), r.a.createElement(fa, {
         color: "primary"
-       }, "Chapter 1")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
+       }, "Chapter 1")),r.a.createElement(fa, {
+        color: "info"
+       }, "weightage: 21%"), r.a.createElement(Fa, null, r.a.createElement(Ge, {
         color: "primary",
         compontent: "a",
         href: "workshops/chapter1.html"
@@ -2561,8 +2563,8 @@
        }, "Technologies & Tools"), r.a.createElement("p", null, "Install, configure, and deploy network components while assessing and troubleshooting issues to support organizational security"), r.a.createElement(fa, {
         color: "primary"
        }, "Chapter 2"), r.a.createElement(fa, {
-        color: ""
-       }, ""), r.a.createElement(fa, {
+        color: "info"
+       }, "weightage: 22%"), r.a.createElement(fa, {
         color: ""
        }, ""), r.a.createElement(fa, {
         color: ""
@@ -2582,8 +2584,8 @@
        }, "Architecture & Design"), r.a.createElement("p", null, "Implement secure network architecture concepts and systems design"), r.a.createElement(fa, {
         color: "primary"
        }, "Chapter 3"), r.a.createElement(fa, {
-        color: ""
-       }, ""), r.a.createElement(fa, {
+        color: "info"
+       }, "weightage: 15%"), r.a.createElement(fa, {
         color: ""
        }, ""), r.a.createElement(fa, {
         color: ""
@@ -2605,8 +2607,8 @@
        }, "Identity & Access Management"), r.a.createElement("p", null, "install and configure identity and access services, as well as management controls"), r.a.createElement(fa, {
         color: "primary"
        }, "Chapter 4"), r.a.createElement(fa, {
-        color: ""
-       }, ""), r.a.createElement(fa, {
+        color: "info"
+       }, "weightage: 16%"), r.a.createElement(fa, {
         color: ""
        }, ""), r.a.createElement(fa, {
         color: ""
@@ -2626,8 +2628,8 @@
        }, "Risk Management"), r.a.createElement("p", null, "Implement and summarize risk management best practices and the business impact"), r.a.createElement(fa, {
         color: "primary"
        }, "Chapter 5"), r.a.createElement(fa, {
-        color: ""
-       }, ""), r.a.createElement(fa, {
+        color: "info"
+       }, "weightage: 14%"), r.a.createElement(fa, {
         color: ""
        }, ""), r.a.createElement(fa, {
         color: ""
@@ -2647,8 +2649,8 @@
        }, "Cryptography & PKI"), r.a.createElement("p", null, "Install and configure wireless security settings and implement public key infrastructure"), r.a.createElement(fa, {
         color: "primary"
        }, "Chapter 6"), r.a.createElement(fa, {
-        color: ""
-       }, ""), r.a.createElement(fa, {
+        color: "info"
+       }, "weightage: 12%"), r.a.createElement(fa, {
         color: ""
        }, ""), r.a.createElement(fa, {
         color: ""
