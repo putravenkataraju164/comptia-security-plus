@@ -2532,7 +2532,7 @@
         className: a.title
        }, r.a.createElement("h2", {
         className: a.title
-       }, "Workshops"), r.a.createElement("h4", null, "Welcome to CompTIA Security+ course")))), r.a.createElement("div", {
+       }, ""), r.a.createElement("h4", null, "Welcome to CompTIA Security+ course")))), r.a.createElement("div", {
         className: a.container
        }, r.a.createElement("div", {
         className: a.section
@@ -2607,7 +2607,7 @@
        }, "Chapter 4"), r.a.createElement(fa, {
         color: ""
        }, ""), r.a.createElement(fa, {
-        color: "danger"
+        color: ""
        }, ""), r.a.createElement(fa, {
         color: ""
        }, "")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
