@@ -2558,21 +2558,21 @@
         lg: 4
        }, r.a.createElement(wa, null, r.a.createElement(ya, null, r.a.createElement("h4", {
         className: a.cardTitle
-       }, "Technologies & Tools"), r.a.createElement("p", null, "Install, configure, and deploy network components while assessing and troubleshooting issues to support organizational security"), r.a.createElement(fa, {
+       }, "Reverse Engineering 102"), r.a.createElement("p", null, "18 sections. This workshop build on RE101 and focuses on identifying simple encryption routines, evasion techniques, and packing."), r.a.createElement(fa, {
         color: "primary"
-       }, ""), r.a.createElement(fa, {
+       }, "x86"), r.a.createElement(fa, {
         color: "warning"
-       }, ""), r.a.createElement(fa, {
+       }, "packing"), r.a.createElement(fa, {
         color: "info"
-       }, ""), r.a.createElement(fa, {
+       }, "encryption"), r.a.createElement(fa, {
         color: "danger"
-       }, "")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
+       }, "evasion")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
         color: "primary",
         compontent: "a",
-        href: ""
+        href: "workshops/re102.html"
        }, "Start"), r.a.createElement("small", {
         className: a.cardDate
-       }, "Comming Soon")))), r.a.createElement(ta, {
+       }, "Published May 17, 2019")))), r.a.createElement(ta, {
         xs: 12,
         sm: 12,
         md: 6,
