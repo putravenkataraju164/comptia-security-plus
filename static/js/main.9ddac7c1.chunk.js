@@ -2602,9 +2602,30 @@
         lg: 4
        }, r.a.createElement(wa, null, r.a.createElement(ya, null, r.a.createElement("h4", {
         className: a.cardTitle
-       }, "Identity & Access Management"), r.a.createElement("p", null, "nstall and configure identity and access services, as well as management controls"), r.a.createElement(fa, {
+       }, "Identity & Access Management"), r.a.createElement("p", null, "install and configure identity and access services, as well as management controls"), r.a.createElement(fa, {
         color: "primary"
        }, "Chapter 4"), r.a.createElement(fa, {
+        color: ""
+       }, ""), r.a.createElement(fa, {
+        color: ""
+       }, ""), r.a.createElement(fa, {
+        color: ""
+       }, "")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
+        color: "primary",
+        compontent: "a",
+        href: ""
+       }, "Disabled"), r.a.createElement("small", {
+        className: a.cardDate
+       }, "Coming Soon!")))), r.a.createElement(ta, {
+        xs: 12,
+        sm: 12,
+        md: 6,
+        lg: 4
+       }, r.a.createElement(wa, null, r.a.createElement(ya, null, r.a.createElement("h4", {
+        className: a.cardTitle
+       }, "Risk Management"), r.a.createElement("p", null, "Implement and summarize risk management best practices and the business impact"), r.a.createElement(fa, {
+        color: "primary"
+       }, "Chapter 5"), r.a.createElement(fa, {
         color: ""
        }, ""), r.a.createElement(fa, {
         color: ""
