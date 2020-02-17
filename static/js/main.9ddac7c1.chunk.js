@@ -444,7 +444,7 @@
        }, r.a.createElement("div", {
         className: t.flex
        }, r.a.createElement(G.a, {
-        href: "https://putravenkataraju.me/CompTIA Security+",
+        href: "https://putravenkataraju.me/Comptia-Security-plus/",
         className: t.title
        }, r.a.createElement(le, {
         color: "inherit"
@@ -464,7 +464,7 @@
         }
        }, r.a.createElement(G.a, {
         color: "transparent",
-        href: "https://github.com/malware-unicorn",
+        href: "https://github.com/putravenkataraju164/comptia-security-plus",
         target: "_blank",
         className: t.navLink
        }, r.a.createElement("i", {
