@@ -1584,7 +1584,7 @@
         className: a.name
        }, r.a.createElement("h3", {
         className: a.title
-       }, "Amanda Rousseau"), r.a.createElement("h6", null, "Offensive Security Engineer"), r.a.createElement("h6", null, "Reverse Engineer"), r.a.createElement(Ge, {
+       }, "Venkata Raju"), r.a.createElement("h6", null, "Cybersecurity Enthusiastic"), r.a.createElement("h6", null, "Application Security Analyst"), r.a.createElement(Ge, {
         justIcon: !0,
         link: !0,
         className: a.margin5,
