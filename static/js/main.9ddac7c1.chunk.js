@@ -2560,19 +2560,13 @@
         className: a.cardTitle
        }, "Technologies & Tools"), r.a.createElement("p", null, "Install, configure, and deploy network components while assessing and troubleshooting issues to support organizational security"), r.a.createElement(fa, {
         color: "primary"
-       }, "x86"), r.a.createElement(fa, {
-        color: "warning"
-       }, "packing"), r.a.createElement(fa, {
-        color: "info"
-       }, "encryption"), r.a.createElement(fa, {
-        color: "danger"
-       }, "evasion")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
+       }, "Chapter 2"), r.a.createElement(Fa, null, r.a.createElement(Ge, {
         color: "primary",
         compontent: "a",
-        href: "workshops/re102.html"
+        href: "workshops/chapter2.html.html"
        }, "Start"), r.a.createElement("small", {
         className: a.cardDate
-       }, "Published May 17, 2019")))), r.a.createElement(ta, {
+       }, "Comming Soon")))), r.a.createElement(ta, {
         xs: 12,
         sm: 12,
         md: 6,
