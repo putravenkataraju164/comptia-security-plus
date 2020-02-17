@@ -1619,11 +1619,18 @@
        }, r.a.createElement("h6", {
         className: a.profile
        }, "White Papers"), r.a.createElement("p", null, r.a.createElement("a", {
-        href: "https://www.ijeat.org/wp-content/uploads/papers/v8i4/D7021048419.pdf"
-       }, "Securing Android Applications from Known Vulnerabilities through Penetration Testing"), " | ijeat.org"),
-	  r.a.createElement("h6", {
+        href: ""
+       }, "Hijacking .NET to Defend PowerShell"), " | arxiv.org"),
+	   r.a.createElement("p", null, "Malware Dynamic Behavior Classification: SVM-HMM applied to Malware API Sequencing | Johns Hopkins University"), r.a.createElement("p", null, "Dll Side-Loading: A Thorn in the Side of the Anti-Virus Industry | FireEye"))), r.a.createElement(aa, {
+        justify: "center"
+       }, r.a.createElement(ta, {
+        xs: 12,
+        sm: 12,
+        md: 8,
+        className: a.navWrapper
+       }, r.a.createElement("h6", {
         className: a.profile
-       }, "Conferences"), r.a.createElement("p", null, "NATIONAL SECURITY & STRATEGIC STUDIES CYBER SECURITY & ITS USE CASES", r.a.createElement("b", null, "D.N.R. College of Engineering and Technology, Bhimavaram 2019")), r.a.createElement("p", null, "Finding Xori: Malware Analysis Triage with Automated Disassembly | ", r.a.createElement("b", null, "Blackhat 2018, Defcon 26")), r.a.createElement("p", null, "What Can Reverse Engineering Do For You? | ", r.a.createElement("b", null, "Shellcon 2017")), r.a.createElement("p", null, "Reverse Engineering Malware 101 | ", r.a.createElement("b", null, "WiCys Conference 2017, DEF CON (Packet Hacking Village) 2017, 44Con 2017")), r.a.createElement("p", null, ".Net Hijacking to Defend Powershell slides | ", r.a.createElement("b", null, "BSides 2017, CanSecWest 2017")), r.a.createElement("p", null, "Instegogram: Leveraging Instagram for C2 via Image Steganography | ", r.a.createElement("b", null, "DefCon (Crypto Village) 2016")), r.a.createElement("p", null, "OSX Malware: Plists, Shell Scripts, and Objective-C, Oh-My! | ", r.a.createElement("b", null, "Mircon 2014")), r.a.createElement("p", null, "DLL Side-Loading: A Thorn in the Side of the Anti-Virus (AV) Industry | ", r.a.createElement("b", null, "RSA Conference 2014")), r.a.createElement("p", null, "Vehicle Embedded System Imaging & Extraction, Examination and Exploitation | ", r.a.createElement("b", null, "DoD Cyber Crime Conference 2012")))))))
+       }, "Conferences"), r.a.createElement("p", null, "Reverse Engineering Fancy Malware, The Good, The Bad, the Ugly | ", r.a.createElement("b", null, "Red Team Summit 2019")), r.a.createElement("p", null, "Finding Xori: Malware Analysis Triage with Automated Disassembly | ", r.a.createElement("b", null, "Blackhat 2018, Defcon 26")), r.a.createElement("p", null, "What Can Reverse Engineering Do For You? | ", r.a.createElement("b", null, "Shellcon 2017")), r.a.createElement("p", null, "Reverse Engineering Malware 101 | ", r.a.createElement("b", null, "WiCys Conference 2017, DEF CON (Packet Hacking Village) 2017, 44Con 2017")), r.a.createElement("p", null, ".Net Hijacking to Defend Powershell slides | ", r.a.createElement("b", null, "BSides 2017, CanSecWest 2017")), r.a.createElement("p", null, "Instegogram: Leveraging Instagram for C2 via Image Steganography | ", r.a.createElement("b", null, "DefCon (Crypto Village) 2016")), r.a.createElement("p", null, "OSX Malware: Plists, Shell Scripts, and Objective-C, Oh-My! | ", r.a.createElement("b", null, "Mircon 2014")), r.a.createElement("p", null, "DLL Side-Loading: A Thorn in the Side of the Anti-Virus (AV) Industry | ", r.a.createElement("b", null, "RSA Conference 2014")), r.a.createElement("p", null, "Vehicle Embedded System Imaging & Extraction, Examination and Exploitation | ", r.a.createElement("b", null, "DoD Cyber Crime Conference 2012")))))))
       }
      }]), a
     }(r.a.Component),
