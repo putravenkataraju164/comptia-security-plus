@@ -444,7 +444,7 @@
        }, r.a.createElement("div", {
         className: t.flex
        }, r.a.createElement(G.a, {
-        href: "https://putravenkataraju.me/Comptia-Security-plus/",
+        href: "http://putravenkataraju.me/comptia-security-plus/",
         className: t.title
        }, r.a.createElement(le, {
         color: "inherit"
