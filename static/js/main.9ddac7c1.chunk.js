@@ -1440,7 +1440,7 @@
         color: "rose",
         component: c.b,
         to: "/workshops"
-       }, "Go To Workshops"))))))
+       }, "Start Learning"))))))
       }
      }]), a
     }(r.a.Component),
@@ -1855,14 +1855,14 @@
         className: a.title
        }, "Resources")), r.a.createElement("div", {
         className: a.section
-       }, r.a.createElement("h3", null, "Reverse Engineering Tools"), r.a.createElement(aa, null, r.a.createElement(ta, {
+       }, r.a.createElement("h3", null, ""), r.a.createElement(aa, null, r.a.createElement(ta, {
         xs: 12,
         sm: 12,
         md: 6,
         lg: 4
        }, r.a.createElement(me.a, null, r.a.createElement(X.a, {
-        id: "x64dbg",
-        title: "An open-source x64/x32 debugger for windows.",
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -1870,15 +1870,15 @@
        }, r.a.createElement(de.a, {
         button: !0,
         component: "a",
-        href: "https://x64dbg.com",
+        href: "",
         target: "_blank"
        }, r.a.createElement(be.a, {
-        primary: "x64dbg"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "primary"
-       }, "debugger"), r.a.createElement(fa, null, "windows"))), r.a.createElement(X.a, {
-        id: "Immunity",
-        title: "Free x32 debugger for windows.",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -1887,14 +1887,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://www.immunityinc.com/products/debugger/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "Immunity"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "primary"
-       }, "debugger"), r.a.createElement(fa, null, "windows"))), r.a.createElement(X.a, {
-        id: "Ollydbg",
-        title: "Free x32 debugger for windows.",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -1903,14 +1903,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "http://www.ollydbg.de/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "Ollydbg"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "primary"
-       }, "debugger"), r.a.createElement(fa, null, "windows"))), r.a.createElement(X.a, {
-        id: "Windbg",
-        title: "An local debugger for windows.",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -1919,14 +1919,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "Windbg"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "primary"
-       }, "debugger"), r.a.createElement(fa, null, "windows"))), r.a.createElement(X.a, {
-        id: "Dtrace",
-        title: "A local tool for mac osx",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -1935,14 +1935,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "http://dtrace.org/blogs/about/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "Dtrace"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "primary"
-       }, "debugger"), r.a.createElement(fa, null, "mac"))), r.a.createElement(X.a, {
-        id: "Capstone",
-        title: "Open-source C based disassembly/disassembler framework",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -1951,14 +1951,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://github.com/aquynh/capstone"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "Capstone"
+        primary: ""
        }), r.a.createElement(fa, {
-        color: "rose"
-       }, "disassembler"), r.a.createElement(fa, null, "all"))), r.a.createElement(X.a, {
-        id: "IdaPro",
-        title: "Expensive Windows, Linux or Mac OS X hosted multi-processor disassembler",
+        color: ""
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "I",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -1967,14 +1967,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://www.hex-rays.com/products/ida/support/download.shtml"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "IdaPro & IdaFree"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "rose"
-       }, "disassembler"), r.a.createElement(fa, null, "all"))), r.a.createElement(X.a, {
-        id: "Radare2",
-        title: "Free and portable reversing framework",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -1983,14 +1983,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://rada.re/r/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "Radare2"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "rose"
-       }, "disassembler"), r.a.createElement(fa, null, "all"))), r.a.createElement(X.a, {
-        id: "Ghidra",
-        title: "A free software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -1999,14 +1999,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://ghidra-sre.org/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "Ghidra"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "rose"
-       }, "disassembler"), r.a.createElement(fa, null, "all"))), r.a.createElement(X.a, {
-        id: "Hopper",
-        title: "Low cost macOS and Linux Disassembler",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2015,19 +2015,19 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://www.hopperapp.com/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "Hopper"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "rose"
-       }, "disassembler"), r.a.createElement(fa, null, "mac/linux"))))), r.a.createElement(ta, {
+       }, ""), r.a.createElement(fa, null, ""))))), r.a.createElement(ta, {
         xs: 12,
         sm: 12,
         md: 6,
         lg: 4
        }, r.a.createElement(me.a, null, r.a.createElement(X.a, {
-        id: "BinaryNinja",
-        title: "Low cost disassembler",
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2036,14 +2036,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://binary.ninja/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "Binary Ninja"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "rose"
-       }, "disassembler"), r.a.createElement(fa, null, "all"))), r.a.createElement(X.a, {
-        id: "JD-GUI",
-        title: "Decompiler for the Java programming language",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2052,14 +2052,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "http://java-decompiler.github.io/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "JD-GUI"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "success"
-       }, "decompiler"), r.a.createElement(fa, null, "java"))), r.a.createElement(X.a, {
-        id: "JEB",
-        title: "Android decompiler",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2068,14 +2068,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://www.pnfsoftware.com/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "JEB Decompiler"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "success"
-       }, "decompiler"), r.a.createElement(fa, null, "android"))), r.a.createElement(X.a, {
-        id: "dnspy",
-        title: ".NET framework decompiler",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2084,14 +2084,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://github.com/0xd4d/dnSpy"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "DnSpy"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "success"
-       }, "decompiler"), r.a.createElement(fa, null, "windows"))), r.a.createElement(X.a, {
-        id: "Snowman",
-        title: "standalone decompiler",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2100,14 +2100,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://derevenets.com/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "Snowman"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "success"
-       }, "decompiler"), r.a.createElement(fa, null, "all"))), r.a.createElement(X.a, {
-        id: "sothink",
-        title: "Flash decompiler",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2116,14 +2116,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "http://www.sothink.com/product/flashdecompiler/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "SoThink"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "success"
-       }, "decompiler"), r.a.createElement(fa, null, "windows/mac"))), r.a.createElement(X.a, {
-        id: "hxdeditor",
-        title: "Free Windows Hex editor",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2132,14 +2132,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://mh-nexus.de/en/hxd/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "HxD Editor"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "info"
-       }, "info"), r.a.createElement(fa, null, "windows"))), r.a.createElement(X.a, {
-        id: "blesseditor",
-        title: "Free Linux Hex editor",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2148,14 +2148,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://packages.debian.org/sid/bless"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "Bless"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "info"
-       }, "info"), r.a.createElement(fa, null, "linux"))), r.a.createElement(X.a, {
-        id: "yara",
-        title: "Pattern matching swiss knife for malware researchers",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2164,14 +2164,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "https://virustotal.github.io/yara/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "Yara"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "warning"
-       }, "analysis"), r.a.createElement(fa, null, "all"))), r.a.createElement(X.a, {
-        id: "apimonitor",
-        title: "Free tool to monitor and control API calls made by applications and services",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2180,19 +2180,19 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "http://www.rohitab.com/apimonitor"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "Apimonitor"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "warning"
-       }, "analysis"), r.a.createElement(fa, null, "windows"))))), r.a.createElement(ta, {
+       }, ""), r.a.createElement(fa, null, ""))))), r.a.createElement(ta, {
         xs: 12,
         sm: 12,
         md: 6,
         lg: 4
        }, r.a.createElement(me.a, null, r.a.createElement(X.a, {
-        id: "pdfdumper",
-        title: "Free tool for the analysis of malicious PDF documents",
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2201,14 +2201,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "http://sandsprite.com/blogs/index.php?uid=7&pid=57"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "PDF Stream Dumper"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "warning"
-       }, "analysis"), r.a.createElement(fa, null, "windows"))), r.a.createElement(X.a, {
-        id: "malzilla",
-        title: "free tool to analyze malicious webpages and view their code",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2217,14 +2217,14 @@
         button: !0,
         component: "a",
         target: "_blank",
-        href: "http://malzilla.sourceforge.net/"
+        href: ""
        }, r.a.createElement(be.a, {
-        primary: "MalZilla"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "warning"
-       }, "analysis"), r.a.createElement(fa, null, "windows"))), r.a.createElement(X.a, {
-        id: "vmware",
-        title: "Running multiple operating systems on a single Linux or Windows PC",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2232,13 +2232,13 @@
        }, r.a.createElement(de.a, {
         button: !0,
         component: "a",
-        href: "https://www.vmware.com/",
+        href: "",
         target: "_blank"
        }, r.a.createElement(be.a, {
-        primary: "VMWare"
-       }), r.a.createElement(fa, null, "all"))), r.a.createElement(X.a, {
-        id: "vbox",
-        title: "Free running multiple operating systems on a single Linux or Windows PC",
+        primary: ""
+       }), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2246,13 +2246,13 @@
        }, r.a.createElement(de.a, {
         button: !0,
         component: "a",
-        href: "https://www.virtualbox.org/",
+        href: "",
         target: "_blank"
        }, r.a.createElement(be.a, {
-        primary: "VirtualBox"
-       }), r.a.createElement(fa, null, "all"))), r.a.createElement(X.a, {
-        id: "qemu",
-        title: "Generic and open source machine emulator and virtualizer",
+        primary: ""
+       }), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2260,13 +2260,13 @@
        }, r.a.createElement(de.a, {
         button: !0,
         component: "a",
-        href: "https://www.qemu.org/",
+        href: "",
         target: "_blank"
        }, r.a.createElement(be.a, {
-        primary: "Qemu"
-       }), r.a.createElement(fa, null, "linux"))), r.a.createElement(X.a, {
-        id: "Xen",
-        title: "open source customizable hypervisor (HVM)",
+        primary: ""
+       }), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2274,13 +2274,13 @@
        }, r.a.createElement(de.a, {
         button: !0,
         component: "a",
-        href: "https://xenproject.org/users/virtualization/",
+        href: "",
         target: "_blank"
        }, r.a.createElement(be.a, {
-        primary: "Xen"
-       }), r.a.createElement(fa, null, "linux"))), r.a.createElement(X.a, {
-        id: "INetSim",
-        title: "software suite for simulating common internet services in a lab environment",
+        primary: ""
+       }), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2288,15 +2288,15 @@
        }, r.a.createElement(de.a, {
         button: !0,
         component: "a",
-        href: "https://www.inetsim.org/",
+        href: "",
         target: "_blank"
        }, r.a.createElement(be.a, {
-        primary: "INetSim"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "warning"
-       }, "analysis"), r.a.createElement(fa, null, "linux"))), r.a.createElement(X.a, {
-        id: "FakeNet",
-        title: "dynamic network analysis tool for malware analysts",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2304,15 +2304,15 @@
        }, r.a.createElement(de.a, {
         button: !0,
         component: "a",
-        href: "https://github.com/fireeye/flare-fakenet-ng",
+        href: "",
         target: "_blank"
        }, r.a.createElement(be.a, {
-        primary: "FakeNet"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "warning"
-       }, "analysis"), r.a.createElement(fa, null, "windows"))), r.a.createElement(X.a, {
-        id: "WireShark",
-        title: "network protocol analyzer",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2320,15 +2320,15 @@
        }, r.a.createElement(de.a, {
         button: !0,
         component: "a",
-        href: "https://www.wireshark.org/",
+        href: "",
         target: "_blank"
        }, r.a.createElement(be.a, {
-        primary: "WireShark"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "warning"
-       }, "analysis"), r.a.createElement(fa, null, "all"))), r.a.createElement(X.a, {
-        id: "TcpDump",
-        title: "command-line packet analyzer",
+       }, ""), r.a.createElement(fa, null, ""))), r.a.createElement(X.a, {
+        id: "",
+        title: "",
         placement: window.innerWidth > 959 ? "top" : "left",
         classes: {
          tooltip: a.tooltip
@@ -2336,13 +2336,13 @@
        }, r.a.createElement(de.a, {
         button: !0,
         component: "a",
-        href: "https://www.tcpdump.org/",
+        href: "",
         target: "_blank"
        }, r.a.createElement(be.a, {
-        primary: "TcpDump"
+        primary: ""
        }), r.a.createElement(fa, {
         color: "warning"
-       }, "analysis"), r.a.createElement(fa, null, "all"))))))))), r.a.createElement("div", {
+       }, ""), r.a.createElement(fa, null, ""))))))))), r.a.createElement("div", {
         className: a.container
        }, r.a.createElement("div", {
         className: a.section
