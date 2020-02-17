@@ -1,6 +1,7 @@
 (window.webpackJsonp = window.webpackJsonp || []).push([
  [0], {
   107: function(e, a, t) {
+<<<<<<< HEAD
    e.exports = t.p + "/comptia-security-plus/static/media/purple-blur-bg.07bf9239.jpg"
   },
   124: function(e, a, t) {
@@ -8,6 +9,15 @@
   },
   125: function(e, a, t) {
    e.exports = t.p + "/comptia-security-plus/static/media/profile-pic.jpg"
+=======
+   e.exports = t.p + "static/media/purple-blur-bg.07bf9239.jpg"
+  },
+  124: function(e, a, t) {
+   e.exports = t.p + "static/media/logo.f99faabe.svg"
+  },
+  125: function(e, a, t) {
+   e.exports = t.p + "static/media/profile-pic.e82af492.jpg"
+>>>>>>> 0ce436f5dc11eb7b74b8e733ddb2dde435e0e19a
   },
   126: function(e, a, t) {
    e.exports = t(263)
@@ -444,7 +454,11 @@
        }, r.a.createElement("div", {
         className: t.flex
        }, r.a.createElement(G.a, {
+<<<<<<< HEAD
         href: "https://putravenkataraju.me/CompTIA Security+",
+=======
+        href: "https://putravenkataraju.me/securityflash",
+>>>>>>> 0ce436f5dc11eb7b74b8e733ddb2dde435e0e19a
         className: t.title
        }, r.a.createElement(le, {
         color: "inherit"
@@ -1417,7 +1431,11 @@
        return r.a.createElement("div", null, r.a.createElement(ie, Object.assign({
         color: "white",
         routes: la,
+<<<<<<< HEAD
         brand: "CompTIA Security+",
+=======
+        brand: "SECURITYFLASH",
+>>>>>>> 0ce436f5dc11eb7b74b8e733ddb2dde435e0e19a
         rightLinks: r.a.createElement(qe, null),
         fixed: !0
        }, n)), r.a.createElement(Ke, {
@@ -1435,7 +1453,11 @@
         md: 6
        }, r.a.createElement("h1", {
         className: a.title
+<<<<<<< HEAD
        }, "Welcome!"), r.a.createElement("h4", null, "CompTIA Security+ training course will help you gain skills required to install and configure systems to secure applications, networks, and devices; perform threat analysis and respond with appropriate mitigation techniques; participate in risk mitigation activities; and operate with an awareness of applicable policies, and laws."), r.a.createElement(Ge, {
+=======
+       }, "Welcome!"), r.a.createElement("h4", null, "Securityflash provides workshops and resources for cybersecurity. Workshop content is now available."), r.a.createElement(Ge, {
+>>>>>>> 0ce436f5dc11eb7b74b8e733ddb2dde435e0e19a
         size: "sm",
         color: "rose",
         component: c.b,
@@ -1557,7 +1579,11 @@
        return r.a.createElement("div", null, r.a.createElement(ie, Object.assign({
         color: "white",
         routes: da,
+<<<<<<< HEAD
         brand: "CompTIA Security+",
+=======
+        brand: "SECURITYFLASH",
+>>>>>>> 0ce436f5dc11eb7b74b8e733ddb2dde435e0e19a
         rightLinks: r.a.createElement(qe, null),
         fixed: !0
        }, n)), r.a.createElement(Ke, {
@@ -1595,19 +1621,31 @@
         justIcon: !0,
         link: !0,
         className: a.margin5,
+<<<<<<< HEAD
         href: "https://github.com/putravenkataraju164/comptia-security-plus"
+=======
+        href: "https://github.com/malware-unicorn"
+>>>>>>> 0ce436f5dc11eb7b74b8e733ddb2dde435e0e19a
        }, r.a.createElement("i", {
         className: "fab fa-github"
        })), r.a.createElement(Ge, {
         justIcon: !0,
         link: !0,
         className: a.margin5,
+<<<<<<< HEAD
         href: "https://www.linkedin.com/in/mrpvr"
+=======
+        href: "https://www.linkedin.com/in/amanda-rousseau-78931847"
+>>>>>>> 0ce436f5dc11eb7b74b8e733ddb2dde435e0e19a
        }, r.a.createElement("i", {
         className: "fab fa-linkedin"
        })))))), r.a.createElement("div", {
         className: a.description
+<<<<<<< HEAD
        }, r.a.createElement("p", null, "I'm a security professional who shares free IT security resources. Basically, I'm creating the content I wish I had found when I started learning security. Previously worked as Application Security Analyst at eSF Labs. Received a M.Tech in Cybersecurity and Digitalforensics from K L University, India. Research interests include application security, malware analysis.", " "))))), r.a.createElement("div", null, r.a.createElement("div", {
+=======
+       }, r.a.createElement("p", null, "Amanda absolutely loves malware. She works as an Offensive Security Engineer on the Red Team at Facebook. Previously Malware Researcher at Endgame, FireEye, and the U.S. Department of Defense Cyber Crime Center. Received a MS in Information Systems Engineering from Johns Hopkins University, Maryland. Research interests include malware evasion techniques, rootkits, dynamic behavior classification, and developing runtime kernel detections.", " "))))), r.a.createElement("div", null, r.a.createElement("div", {
+>>>>>>> 0ce436f5dc11eb7b74b8e733ddb2dde435e0e19a
         className: a.container
        }, r.a.createElement(aa, {
         justify: "center"
@@ -1619,9 +1657,14 @@
        }, r.a.createElement("h6", {
         className: a.profile
        }, "White Papers"), r.a.createElement("p", null, r.a.createElement("a", {
+<<<<<<< HEAD
         href: ""
        }, "Hijacking .NET to Defend PowerShell"), " | arxiv.org"),
 	   r.a.createElement("p", null, "Malware Dynamic Behavior Classification: SVM-HMM applied to Malware API Sequencing | Johns Hopkins University"), r.a.createElement("p", null, "Dll Side-Loading: A Thorn in the Side of the Anti-Virus Industry | FireEye"))), r.a.createElement(aa, {
+=======
+        href: "https://arxiv.org/pdf/1709.07508.pdf"
+       }, "Hijacking .NET to Defend PowerShell"), " | arxiv.org"), r.a.createElement("p", null, "Malware Dynamic Behavior Classification: SVM-HMM applied to Malware API Sequencing | Johns Hopkins University"), r.a.createElement("p", null, "Dll Side-Loading: A Thorn in the Side of the Anti-Virus Industry | FireEye"))), r.a.createElement(aa, {
+>>>>>>> 0ce436f5dc11eb7b74b8e733ddb2dde435e0e19a
         justify: "center"
        }, r.a.createElement(ta, {
         xs: 12,
@@ -1841,7 +1884,11 @@
        return r.a.createElement("div", null, r.a.createElement(ie, Object.assign({
         color: "white",
         routes: Oa,
+<<<<<<< HEAD
         brand: "CompTIA Security+",
+=======
+        brand: "SECURITYFLASH",
+>>>>>>> 0ce436f5dc11eb7b74b8e733ddb2dde435e0e19a
         rightLinks: r.a.createElement(qe, null),
         fixed: !0
        }, t)), r.a.createElement("div", {
@@ -2520,7 +2567,11 @@
        return r.a.createElement("div", null, r.a.createElement(ie, Object.assign({
         color: "white",
         routes: Ra,
+<<<<<<< HEAD
         brand: "CompTIA Security+",
+=======
+        brand: "SECURITYFLASH",
+>>>>>>> 0ce436f5dc11eb7b74b8e733ddb2dde435e0e19a
         rightLinks: r.a.createElement(qe, null),
         fixed: !0
        }, t)), r.a.createElement("div", {
@@ -2634,7 +2685,11 @@
        return r.a.createElement("div", null, r.a.createElement(ie, Object.assign({
         color: "white",
         routes: Ta,
+<<<<<<< HEAD
         brand: "CompTIA Security+",
+=======
+        brand: "SECURITYFLASH",
+>>>>>>> 0ce436f5dc11eb7b74b8e733ddb2dde435e0e19a
         rightLinks: r.a.createElement(qe, null),
         fixed: !0
        }, t)), r.a.createElement("div", {
