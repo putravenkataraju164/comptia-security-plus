@@ -2532,7 +2532,7 @@
         className: a.title
        }, r.a.createElement("h2", {
         className: a.title
-       }, "Workshops"), r.a.createElement("h4", null, "Welcome to reverse engineering workshops")))), r.a.createElement("div", {
+       }, "Workshops"), r.a.createElement("h4", null, "Welcome to CompTIA Security+ course")))), r.a.createElement("div", {
         className: a.container
        }, r.a.createElement("div", {
         className: a.section
@@ -2543,15 +2543,15 @@
         lg: 4
        }, r.a.createElement(wa, null, r.a.createElement(ya, null, r.a.createElement("h5", {
         className: a.cardTitle
-       }, "Reverse Engineering 101"), r.a.createElement("p", null, "11 sections. This workshop provides the fundamentals of reversing engineering Windows malware using a hands-on experience with RE tools and techniques."), r.a.createElement(fa, {
+       }, "Threat, Attacks & Vulnerabilities"), r.a.createElement("p", null, "Detect various types of compromise and have an understanding of penetration testing and vulnerability scanning concepts"), r.a.createElement(fa, {
         color: "primary"
-       }, "x86")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
+       }, "Chapter 1")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
         color: "primary",
         compontent: "a",
-        href: "workshops/re101.html"
+        href: "workshops/TAV.html"
        }, "Start"), r.a.createElement("small", {
         className: a.cardDate
-       }, "Published May 14, 2019")))), r.a.createElement(ta, {
+       }, "Published Feb 17, 2019")))), r.a.createElement(ta, {
         xs: 12,
         sm: 12,
         md: 6,
