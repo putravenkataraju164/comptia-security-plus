@@ -364,6 +364,13 @@
     te = t(72),
     ne = t.n(te);
 
+   function re(e) {
+    return r.a.createElement(ne.a, e, r.a.createElement("svg", {
+     xmlns: "http://www.w3.org/2000/svg",
+     viewBox: "0 0 118 118"
+    }, r.a.createElement("path", {
+     d: ""
+    })))
    }
    var le = Object(ae.withStyles)(function(e) {
      return {
