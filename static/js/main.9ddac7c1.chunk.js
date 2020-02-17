@@ -1621,7 +1621,10 @@
        }, "White Papers"), r.a.createElement("p", null, r.a.createElement("a", {
         href: ""
        }, "Securing Android Applications from Known Vulnerabilities through Penetration Testing"), " | ijeat.org"),
-	    r.a.createElement(ta, {
+	   r.a.createElement("p", null, ""), r.a.createElement("p", null, ""))), 
+	   r.a.createElement(aa, {
+        justify: "center"
+       }, r.a.createElement(ta, {
         xs: 12,
         sm: 12,
         md: 8,
