@@ -2536,18 +2536,22 @@
         className: a.container
        }, r.a.createElement("div", {
         className: a.section
-       }, r.a.createElement(aa, null, r.a.createElement(ta, {
+       }, r.a.createElement(aa, null,  r.a.createElement(ta, {
         xs: 12,
         sm: 12,
         md: 6,
         lg: 4
-       }, r.a.createElement(wa, null, r.a.createElement(ya, null, r.a.createElement("h5", {
+       }, r.a.createElement(wa, null, r.a.createElement(ya, null, r.a.createElement("h4", {
         className: a.cardTitle
        }, "Threat, Attacks & Vulnerabilities"), r.a.createElement("p", null, "Detect various types of compromise and have an understanding of penetration testing and vulnerability scanning concepts"), r.a.createElement(fa, {
         color: "primary"
-       }, "Chapter 1")),r.a.createElement(fa, {
+       }, "Chapter 1"), r.a.createElement(fa, {
         color: "info"
-       }, "weightage: 21%"), r.a.createElement(Fa, null, r.a.createElement(Ge, {
+       }, "weightage: 21%"), r.a.createElement(fa, {
+        color: ""
+       }, ""), r.a.createElement(fa, {
+        color: ""
+       }, "")), r.a.createElement(Fa, null, r.a.createElement(Ge, {
         color: "primary",
         compontent: "a",
         href: "workshops/chapter1.html"
