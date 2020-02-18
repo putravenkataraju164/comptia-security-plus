@@ -56,7 +56,7 @@
 
       </google-codelab-step>
 
-      <google-codelab-step label="Malware" duration="1">
+      <google-codelab-step label="Malware" duration="3">
         <h2 is-upgraded>Malware</h2>
 <p>&#34;Malware (malicious software) is any software intentionally designed to cause damage to a computer, server, client, or computer network&#34;</p>
 <h2 is-upgraded>Types of malware</h2>
@@ -82,7 +82,7 @@
 </ul>
       </google-codelab-step>
 
-      <google-codelab-step label="Advanced Malware" duration="2">
+      <google-codelab-step label="Advanced Malware" duration="1">
         <h2 is-upgraded>Polymorphic Malware</h2>
 		<p>Malware that constantly changes its identifiable features in order to evade detection. Polymorphic techniques involve frequently changing identifiable characteristics like file names and types or encryption keys to make the malware unrecognizable to many detection techniques.</p>
      	<p>Polymorphism is used to evade pattern-matching detection relied on by security solutions like antivirus software. While certain characteristics of polymorphic malware change, its functional purpose remains the same.</p>
@@ -97,44 +97,9 @@
 		</ul>
       </google-codelab-step>
 
-      <google-codelab-step label="Anatomy of a Windows PE C program" duration="5">
-        <p>Typical windows programs are in the Portable Executable (PE) Format. It&#39;s portable because it contains information, resources, and references to dynamic-linked libraries (DLL) that allows windows to load and execute the machine code.</p>
-<p class="image-container"><gif-player src="../re101/img/e5f7a42453444d0c.gif" size="auto" style="width:610px;height:338px" speed="2" play></gif-player></p>
-<h2 is-upgraded>Windows Architecture</h2>
-<p>In this workshop we will be focusing on user-mode applications.</p>
-<p class="image-container"><img style="width: 610.00px" src="../re101/img/a49e773f13968e92.png"></p>
-<h3 is-upgraded>User-mode vs. Kernel Mode<a href="https://msdn.microsoft.com/en-us/windows/hardware/drivers/gettingstarted/user-mode-and-kernel-mode?f=255&MSPPError=-2147217396" target="_blank"> [1]</a></h3>
-<ul>
-<li>In user-mode, an application starts a user-mode process which comes with its own private virtual address space and handle table</li>
-<li>In kernel mode, applications share virtual address space.</li>
-</ul>
-<p>This diagram shows the relationship of application components for user-mode and kernel-mode. </p>
-<h2 is-upgraded>PE Header</h2>
-<p>The PE header provides information to operating system on how to map the file into memory. The executable code has designated regions that require a different memory protection (RWX)</p>
-<ul>
-<li>Read</li>
-<li>Write</li>
-<li>Execute</li>
-</ul>
-<p class="image-container"><img style="width: 610.00px" src="../re101/img/faff0917056c4dc6.png"></p>
-<p>Here is a hexcode dump of a PE header we will be working with.</p>
-<p class="image-container"><gif-player src="../re101/img/db8b01ee2a0e56f3.gif" size="auto" repeat style="width:610px;height:710px" speed="2" play></gif-player></p>
-<h2 is-upgraded>Memory Layout</h2>
-<ul>
-<li><strong>Stack</strong> - region of memory is added or removed using &#34;last-in-first-out&#34; (LIFO) procedure<a href="https://en.wikipedia.org/wiki/Stack_(abstract_data_type)" target="_blank">[2]</a></li>
-<li><strong>Heap</strong> - region for dynamic memory allocation<a href="https://en.wikipedia.org/wiki/Heap_(data_structure)" target="_blank">[3]</a></li>
-<li><strong>Program Image</strong> - The PE executable code placed into memory</li>
-<li><strong>DLLs</strong> - Loaded DLL images that are referenced by the PE</li>
-<li><strong>TEB</strong> - Thread Environment Block stores information about the current running thread(s)<a href="https://en.wikipedia.org/wiki/Win32_Thread_Information_Block" target="_blank">[4]</a></li>
-<li><strong>PEB</strong> - Process Environment Block stores information about loaded modules and processes.<a href="https://en.wikipedia.org/wiki/Process_Environment_Block" target="_blank">[5]</a></li>
-</ul>
-<p class="image-container"><img style="width: 610.00px" src="../re101/img/dd272ca01a1a1780.png"></p>
-<h2 is-upgraded>The Stack</h2>
-<ul>
-<li>Data is either pushed onto or popped off of the stack data structure</li>
-<li><strong>EBP</strong> - Base Pointer is the register that used to store the references in the stack frame</li>
-</ul>
-<p class="image-container"><img style="width: 610.00px" src="../re101/img/12ddbf0c041574ca.png"></p>
+      <google-codelab-step label="Threats" duration="3">
+          <h2 is-upgraded>Threat</h2>
+		  <p>Threat can refer to anything which can hamper the normal activity of a PC either via a malware or any hacking attack.</p>
 
       </google-codelab-step>
 
