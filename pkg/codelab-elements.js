@@ -4960,13 +4960,13 @@
         if (!a)
         {
           console.log(a)
-          return "/#/workshops";
+          return "/comptia-security-plus/#/workshops";
         }
         a = a.replace(/[^a-z0-9\-]+/ig, "");
         if (!a || "" === a.trim())
         {
             console.log(a)
-            return "/#/workshops";
+            return "/comptia-security-plus/#/workshops";
         }
         "index" === a && (a = "");
         console.log(a)
