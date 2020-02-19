@@ -742,7 +742,7 @@ google-codelab #drawer ol li .step:before {
     width: 26px;
     min-width: 26px;
     color: #fff;
-    background: #80868b;
+    background: #E74C3C;
     border-radius: 50%;
     text-align: center;
     height: 26px;
@@ -774,7 +774,7 @@ google-codelab #drawer ol li[completed] a {
 }
 
 google-codelab #drawer ol li[completed] .step:before {
-    background-color: #dd1ae8;
+    background-color: #52BE80;
     color: #fff
 }
 
